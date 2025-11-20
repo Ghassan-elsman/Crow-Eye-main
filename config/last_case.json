@@ -1,0 +1,37 @@
+{
+    "case_name": "17 novmber",
+    "opened_date": "2025-11-20T10:55:10.529614",
+    "paths": {
+        "case_root": "E:/Cases/17 novmber",
+        "artifacts_dir": "E:/Cases/17 novmber\\Target_Artifacts",
+        "c_ajl_lnk_dir": "E:/Cases/17 novmber\\Target_Artifacts\\C_AJL_Lnk",
+        "registry_dir": "E:/Cases/17 novmber\\Target_Artifacts\\Registry_Hives",
+        "prefetch_dir": "E:/Cases/17 novmber\\Target_Artifacts\\Prefetch",
+        "mft_dir": "E:/Cases/17 novmber\\Target_Artifacts\\MFT",
+        "usn_dir": "E:/Cases/17 novmber\\Target_Artifacts\\USN_Journal",
+        "databases": {
+            "registry": "E:/Cases/17 novmber\\Target_Artifacts\\registry_data.db",
+            "lnk": "E:/Cases/17 novmber\\Target_Artifacts\\LnkDB.db",
+            "logs": "E:/Cases/17 novmber\\Target_Artifacts\\Log_Claw.db",
+            "prefetch": "E:/Cases/17 novmber\\Target_Artifacts\\prefetch_data.db",
+            "shimcache": "E:/Cases/17 novmber\\Target_Artifacts\\shimcache.db",
+            "amcache": "E:/Cases/17 novmber\\Target_Artifacts\\amcache.db",
+            "recyclebin": "E:/Cases/17 novmber\\Target_Artifacts\\recyclebin_analysis.db",
+            "mft": "E:/Cases/17 novmber\\Target_Artifacts\\mft_claw_analysis.db",
+            "usn": "E:/Cases/17 novmber\\Target_Artifacts\\USN_journal.db",
+            "mft_usn_correlated": "E:/Cases/17 novmber\\Target_Artifacts\\mft_usn_correlated_analysis.db"
+        }
+    },
+    "databases": {
+        "registry": "E:/Cases/17 novmber\\Target_Artifacts\\registry_data.db",
+        "lnk": "E:/Cases/17 novmber\\Target_Artifacts\\LnkDB.db",
+        "logs": "E:/Cases/17 novmber\\Target_Artifacts\\Log_Claw.db",
+        "prefetch": "E:/Cases/17 novmber\\Target_Artifacts\\prefetch_data.db",
+        "shimcache": "E:/Cases/17 novmber\\Target_Artifacts\\shimcache.db",
+        "amcache": "E:/Cases/17 novmber\\Target_Artifacts\\amcache.db",
+        "recyclebin": "E:/Cases/17 novmber\\Target_Artifacts\\recyclebin_analysis.db",
+        "mft": "E:/Cases/17 novmber\\Target_Artifacts\\mft_claw_analysis.db",
+        "usn": "E:/Cases/17 novmber\\Target_Artifacts\\USN_journal.db",
+        "mft_usn_correlated": "E:/Cases/17 novmber\\Target_Artifacts\\mft_usn_correlated_analysis.db"
+    }
+}

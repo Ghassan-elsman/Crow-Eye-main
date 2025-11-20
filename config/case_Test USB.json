@@ -1,0 +1,35 @@
+{
+    "case_name": "Test USB",
+    "created_date": "2025-11-19T04:05:48.384947",
+    "paths": {
+        "case_root": "E:/Cases\\Test USB",
+        "artifacts_dir": "E:/Cases\\Test USB\\Target_Artifacts",
+        "c_ajl_lnk_dir": "E:/Cases\\Test USB\\Target_Artifacts\\C_AJL_Lnk",
+        "registry_dir": "E:/Cases\\Test USB\\Target_Artifacts\\Registry_Hives",
+        "prefetch_dir": "E:/Cases\\Test USB\\Target_Artifacts\\Prefetch",
+        "mft_dir": "E:/Cases\\Test USB\\Target_Artifacts\\MFT",
+        "usn_dir": "E:/Cases\\Test USB\\Target_Artifacts\\USN_Journal",
+        "databases": {
+            "registry": "E:/Cases\\Test USB\\Target_Artifacts\\registry_data.db",
+            "lnk": "E:/Cases\\Test USB\\Target_Artifacts\\LnkDB.db",
+            "logs": "E:/Cases\\Test USB\\Target_Artifacts\\Log_Claw.db",
+            "prefetch": "E:/Cases\\Test USB\\Target_Artifacts\\prefetch_data.db",
+            "shimcache": "E:/Cases\\Test USB\\Target_Artifacts\\shimcache.db",
+            "amcache": "E:/Cases\\Test USB\\Target_Artifacts\\amcache.db",
+            "mft": "E:/Cases\\Test USB\\Target_Artifacts\\mft_claw_analysis.db",
+            "usn": "E:/Cases\\Test USB\\Target_Artifacts\\USN_journal.db",
+            "mft_usn_correlated": "E:/Cases\\Test USB\\Target_Artifacts\\mft_usn_correlated_analysis.db"
+        }
+    },
+    "databases": {
+        "registry": "E:/Cases\\Test USB\\Target_Artifacts\\registry_data.db",
+        "lnk": "E:/Cases\\Test USB\\Target_Artifacts\\LnkDB.db",
+        "logs": "E:/Cases\\Test USB\\Target_Artifacts\\Log_Claw.db",
+        "prefetch": "E:/Cases\\Test USB\\Target_Artifacts\\prefetch_data.db",
+        "shimcache": "E:/Cases\\Test USB\\Target_Artifacts\\shimcache.db",
+        "amcache": "E:/Cases\\Test USB\\Target_Artifacts\\amcache.db",
+        "mft": "E:/Cases\\Test USB\\Target_Artifacts\\mft_claw_analysis.db",
+        "usn": "E:/Cases\\Test USB\\Target_Artifacts\\USN_journal.db",
+        "mft_usn_correlated": "E:/Cases\\Test USB\\Target_Artifacts\\mft_usn_correlated_analysis.db"
+    }
+}
